@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a Pomodoro Buddy App that allows users to time their study session and keep tabs on their tasks!<br><br>👯 I’m looking to collaborate on projects with students of the same experience<br>level. Let's grow together!<br><br>🌱 I’m currently learning React<br><br>⚡ Fun fact - I love cats and hiking
+🔭 I’m currently working on a client project that allows their site visitors to learn more about their company and services.<br><br>👯 I’m looking to collaborate on projects with students of the same experience<br>level. Let's grow together!<br><br>🌱 I’m currently learning React<br><br>⚡ Fun fact - I love cats and hiking
 
 
 # 💻 Tech Stack:
