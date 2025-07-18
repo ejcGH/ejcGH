@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🔭 I’m currently working on a client project that allows their site visitors to learn more about their company and services.<br><br>👯 I’m looking to collaborate on projects with students of the same experience<br>level. Let's grow together!<br><br>🌱 Computer Science student and Book enthusiast.<br><br>⚡ 
+🌱 Computer Science student and Book enthusiast.<br><br>⚡ 
 
 
 # 💻 Tech Stack:
