@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-🌱 Computer Science student and Book enthusiast.<br><br>⚡ 
+🌱 Software Engineering and Book enthusiast.<br><br>⚡ 
 
 
 # 💻 Tech Stack:
